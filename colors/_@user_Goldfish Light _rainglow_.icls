@@ -4,7 +4,7 @@
     <property name="created">2020-04-10T18:08:49</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-04-13T18:15:42</property>
+    <property name="modified">2020-04-18T14:11:40</property>
     <property name="originalScheme">Goldfish Light (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3544,7 +3544,7 @@
         <option name="FOREGROUND" value="fa6900" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="17191a" />
