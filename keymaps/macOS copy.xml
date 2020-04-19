@@ -8,6 +8,7 @@
   <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="meta alt add" />
   </action>
+  <action id="FileChooser.TogglePathShowing" />
   <action id="Flutter.Toolbar.ReloadAllAction" />
   <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
