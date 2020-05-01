@@ -1,9 +1,16 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="allowDataCollection" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="tabFontSize" value="14" />
     <option name="rightTreeIndent" value="6" />
-    <option name="settingsSelectedTab" value="6" />
+    <option name="tabsHeight" value="48" />
+    <option name="highlightColor" value="bcdae3" />
+    <option name="selectedTheme" value="SOLARIZED_LIGHT" />
     <option name="userId" value="-f366057:17163903d8e:-8000" />
     <option name="version" value="3.10.0" />
   </component>
