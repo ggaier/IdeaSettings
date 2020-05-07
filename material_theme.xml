@@ -1,5 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="contrastMode" value="true" />
+    <option name="highContrast" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
@@ -12,6 +14,6 @@
     <option name="highlightColor" value="bcdae3" />
     <option name="selectedTheme" value="SOLARIZED_LIGHT" />
     <option name="userId" value="-f366057:17163903d8e:-8000" />
-    <option name="version" value="4.5.2" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
