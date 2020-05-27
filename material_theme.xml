@@ -7,8 +7,9 @@
     <option name="pristineConfig" value="false" />
     <option name="tabFontSizeEnabled" value="true" />
     <option name="tabFontSize" value="14" />
+    <option name="highlightThickness" value="1" />
     <option name="rightTreeIndent" value="6" />
-    <option name="tabsHeight" value="48" />
+    <option name="tabsHeight" value="42" />
     <option name="accentColor" value="d33682" />
     <option name="highlightColor" value="bcdae3" />
     <option name="selectedTheme" value="SOLARIZED_LIGHT" />
