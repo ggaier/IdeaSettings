@@ -1,4 +1,8 @@
 <code_scheme name="Default" version="173">
+  <JavaCodeStyleSettings>
+    <option name="FIELD_NAME_PREFIX" value="m" />
+    <option name="STATIC_FIELD_NAME_PREFIX" value="s" />
+  </JavaCodeStyleSettings>
   <codeStyleSettings language="Dart">
     <option name="RIGHT_MARGIN" value="120" />
   </codeStyleSettings>
