@@ -3,6 +3,9 @@
     <option name="FIELD_NAME_PREFIX" value="m" />
     <option name="STATIC_FIELD_NAME_PREFIX" value="s" />
   </JavaCodeStyleSettings>
+  <JetCodeStyleSettings>
+    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+  </JetCodeStyleSettings>
   <codeStyleSettings language="Dart">
     <option name="RIGHT_MARGIN" value="120" />
   </codeStyleSettings>
@@ -117,5 +120,8 @@
         </section>
       </rules>
     </arrangement>
+  </codeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
   </codeStyleSettings>
 </code_scheme>
