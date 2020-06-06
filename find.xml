@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../latte-ec/src/main/java/com/flj/latte/ec/message/ServiceDelegate.java [latte-ec]'" />
+    <option name="defaultScopeName" value="File '.../latte-ec/src/main/java/com/flj/latte/ec/message/ServiceDelegate.java [latte-ec]'" />
+    <option name="SEARCH_SCOPE" value="File '.../latte-ec/src/main/java/com/flj/latte/ec/message/ServiceDelegate.java [latte-ec]'" />
   </component>
 </application>
