@@ -5,4 +5,14 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern pattern="\b(debug_code)\b.*" />
+    <filter name="DebugCode">
+      <pattern index="1" />
+    </filter>
+    <filter name="ToDo">
+      <pattern index="0" />
+    </filter>
+  </component>
 </application>
