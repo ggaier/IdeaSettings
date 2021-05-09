@@ -1,24 +1,24 @@
-<scheme name="_@user_Material Solarized Light" version="142" parent_scheme="Default">
+<scheme name="_@user_Solarized Light (Material)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-04-10T18:08:49</property>
+    <property name="created">2021-04-12T15:07:21</property>
     <property name="ide">Idea</property>
-    <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-12-16T19:06:46</property>
-    <property name="originalScheme">Material Solarized Light</property>
+    <property name="ideVersion">2021.1.0.0</property>
+    <property name="modified">2021-04-12T15:10:01</property>
+    <property name="originalScheme">Solarized Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="859900" />
     <option name="ANNOTATIONS_COLOR" value="1b4652" />
@@ -27,9 +27,20 @@
     <option name="CARET_ROW_COLOR" value="eee8d5" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fdf6e3" />
     <option name="DELETED_LINES_COLOR" value="d30102" />
+    <option name="DIAGRAM_ANNOTATION_EDGE" value="d33682" />
+    <option name="DIAGRAM_DEFAULT_EDGE" value="657b83" />
+    <option name="DIAGRAM_GENERALIZATION_EDGE" value="b58900" />
+    <option name="DIAGRAM_INNER_EDGE" value="859900" />
+    <option name="DIAGRAM_NODE_BACKGROUND" value="fdf6e3" />
+    <option name="DIAGRAM_NODE_HEADER" value="cac5b6" />
+    <option name="DIAGRAM_NOTE_BACKGROUND" value="fdf6e3" />
+    <option name="DIAGRAM_NOTE_BORDER" value="657b83" />
+    <option name="DIAGRAM_REALIZATION_EDGE" value="cb4b16" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="d7d1c1" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="c8c3b5" />
     <option name="DOCUMENTATION_COLOR" value="f4eddb" />
+    <option name="DOC_COMMENT_GUIDE" value="567983" />
+    <option name="DOC_COMMENT_LINK" value="268bd2" />
     <option name="ERROR_HINT" value="fdd4c4" />
     <option name="FILESTATUS_ADDED" value="859900" />
     <option name="FILESTATUS_COPIED" value="2aa198" />
@@ -50,7 +61,7 @@
     <option name="FILESTATUS_UNKNOWN" value="d33682" />
     <option name="FILESTATUS_addedOutside" value="d33682" />
     <option name="FILESTATUS_changelistConflict" value="cb4b16" />
-    <option name="FILESTATUS_modifiedOutside" value="2aa198" />
+    <option name="FILESTATUS_modifiedOutside" value="6c71c4" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="eee8d5" />
     <option name="GUTTER_BACKGROUND" value="fdf6e3" />
     <option name="HTML_TAG_TREE_LEVEL0" value="dc322f" />
@@ -69,6 +80,7 @@
     <option name="METHOD_SEPARATORS_COLOR" value="eee8d5" />
     <option name="MODIFIED_LINES_COLOR" value="268bd2" />
     <option name="NOTIFICATION_BACKGROUND" value="999178" />
+    <option name="PROMOTION_PANE" value="eee8d5" />
     <option name="QUESTION_HINT" value="b6cce9" />
     <option name="RECENT_LOCATIONS_SELECTION" value="eee8d5" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="fcf5bd" />
@@ -76,7 +88,6 @@
     <option name="SELECTED_INDENT_GUIDE" value="c8c3b5" />
     <option name="SELECTED_TEARLINE_COLOR" value="839496" />
     <option name="SELECTION_BACKGROUND" value="e2dccb" />
-    <option name="SELECTION_FOREGROUND" value="" />
     <option name="SEPARATOR_BELOW_COLOR" value="e2dccb" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="d33682c0" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="eee8d5" />
@@ -199,6 +210,10 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.FUNCTION_CALL" baseAttributes="" />
+    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="BASH.INTERNAL_COMMAND" baseAttributes="" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BASH.VAR_USE">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
@@ -736,6 +751,12 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
+      <value>
+        <option name="BACKGROUND" value="e2dfb2" />
+        <option name="ERROR_STRIPE_COLOR" value="268bd2" />
+      </value>
+    </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="657b83" />
@@ -945,7 +966,7 @@
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fdf6e3" />
-        <option name="BACKGROUND" value="268bd2" />
+        <option name="BACKGROUND" value="bbd3e2" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -1505,8 +1526,16 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="KOTLIN_LABEL">
-      <value />
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -1542,6 +1571,7 @@
     </option>
     <option name="KOTLIN_SMART_CAST_VALUE">
       <value>
+        <option name="BACKGROUND" value="eee8d5" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1558,6 +1588,16 @@
     <option name="KOTLIN_TYPE_PARAMETER">
       <value>
         <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="KOTLIN_VARIABLE_AS_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="KOTLIN_VARIABLE_AS_FUNCTION_LIKE">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
     <option name="LABEL">
@@ -1592,6 +1632,12 @@
       <value>
         <option name="FOREGROUND" value="657b83" />
         <option name="BACKGROUND" value="bbd3e2" />
+      </value>
+    </option>
+    <option name="LIVE_TEMPLATE_INACTIVE_SEGMENT">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="LOCALE.LINE_COMMENT">
@@ -2872,8 +2918,10 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="99ccbb" />
+        <option name="BACKGROUND" value="eee8d5" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ffcc00" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -3080,6 +3128,11 @@
         <option name="FOREGROUND" value="dc322f" />
       </value>
     </option>
+    <option name="PHP_THIS_VAR">
+      <value>
+        <option name="FOREGROUND" value="d33682" />
+      </value>
+    </option>
     <option name="PHP_VAR">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -3227,6 +3280,11 @@
     <option name="REASONML_OPTION">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
+      </value>
+    </option>
+    <option name="REGEXP_MATCHED_GROUPS">
+      <value>
+        <option name="BACKGROUND" value="bec9db" />
       </value>
     </option>
     <option name="REST.BOLD">
@@ -3426,7 +3484,11 @@
       </value>
     </option>
     <option name="RUNTIME_ERROR">
-      <value />
+      <value>
+        <option name="EFFECT_COLOR" value="dc322f" />
+        <option name="ERROR_STRIPE_COLOR" value="dc322f" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
     </option>
     <option name="Rainbow Parens Level 1 (outermost)">
       <value>
