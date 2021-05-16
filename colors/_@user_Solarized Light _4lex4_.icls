@@ -1,11 +1,15 @@
 <scheme name="_@user_Solarized Light (4lex4)" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-05-09T18:57:33</property>
+    <property name="created">2021-05-12T18:16:20</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.1.1.0.0</property>
-    <property name="modified">2021-05-09T19:00:42</property>
+    <property name="modified">2021-05-13T10:39:36</property>
     <property name="originalScheme">Solarized Light (4lex4)</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="Hack" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c4d4aa" />
     <option name="ANNOTATIONS_COLOR" value="586e76" />
@@ -375,7 +379,7 @@
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="657b83" />
+        <option name="FOREGROUND" value="81ba8f" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
@@ -948,6 +952,9 @@
         <option name="FOREGROUND" value="657b83" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="c94916" />
@@ -1008,31 +1015,6 @@
       <value>
         <option name="EFFECT_COLOR" value="93a1a1" />
         <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_1">
-      <value>
-        <option name="BACKGROUND" value="fdf7cf" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_2">
-      <value>
-        <option name="BACKGROUND" value="eef7d7" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_3">
-      <value>
-        <option name="BACKGROUND" value="fde8e6" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_4">
-      <value>
-        <option name="BACKGROUND" value="e8f5e4" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_ERROR">
-      <value>
-        <option name="BACKGROUND" value="d7b5a8" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -1270,10 +1252,7 @@
       </value>
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="2e98b6" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -1385,7 +1364,7 @@
     </option>
     <option name="LOG_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="FOREGROUND" value="81ba8f" />
       </value>
     </option>
     <option name="LUA_FIELD">
@@ -1574,8 +1553,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="586e75" />
-        <option name="BACKGROUND" value="badccc" />
+        <option name="BACKGROUND" value="99ccbb" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
