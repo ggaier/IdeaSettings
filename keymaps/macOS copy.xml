@@ -1,9 +1,11 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
-  <action id="$Paste" />
   <action id="ChangesView.Move" />
   <action id="ChangesView.SetDefault" />
   <action id="CollapseRegionRecursively">
     <keyboard-shortcut first-keystroke="meta alt subtract" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
   </action>
   <action id="EditorPasteSimple" />
   <action id="Exit" />
