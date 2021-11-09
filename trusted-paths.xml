@@ -1,0 +1,10 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Develop/libs/im_flutter_sdk" />
+        <option value="$USER_HOME$/Develop/projects/im_flutter_sdk" />
+      </list>
+    </option>
+  </component>
+</application>

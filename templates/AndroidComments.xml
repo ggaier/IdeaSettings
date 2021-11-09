@@ -11,4 +11,12 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="todo" value="// TODO: $date$ $todo$ " description="adds // TODO" toReformat="true" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="todo" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
